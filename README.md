@@ -21,7 +21,7 @@ Gran conocimiento de JavaScript</li>
 <ol>
 <li>Github-Gitlab control de versiones</li>
 <li>Diseño Responsive</li>
-<li>Sass,Less conocimientos basicos</li>
+<li>Sass,Less conocimientos básicos</li>
 <li>Mocha test</li>
 <li>Pruebas de humo</li>
 </ol>
