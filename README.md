@@ -15,7 +15,7 @@ Gran conocimiento de JavaScript</li>
 <li>Redux, Redux-Thunk,JWT,Bcrypt,morgana,formik,axios,bootstrap,yup</li>
 <li>Entendimientos y manejo de React-Native- expo/native-cli</li>
 </ol>
-## Habilidades! Otras
+### Habilidades! Otras
 <ol>
 <li>
 Gran conocimiento de JavaScript</li>
