@@ -35,3 +35,4 @@ _Personal_
 ## URL Proyectos
 
 * HenryBanks Puedes hechar un vistazo en: https://expo.io/@quasir/projects/henrybank
+* Landing Page para consorcios Trayan http://carlostrayan.com/
