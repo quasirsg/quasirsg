@@ -10,7 +10,7 @@ Gran conocimiento de JavaScript</li>
 <li>Manejo de Node JS para creacion de servicios en API RESTful</li>
 <li>Familiarizado con el uso de herramientas ORM : Sequelize,Mongoose</li>
 <li>Entendimientos y manejo de frameworks para microservicios como: Moleculer y Nestjs</li>
-<li>Experiencia utilizando JWT-Jason Web Token</li>
+<li>Experiencia utilizando JWT-JSON Web Token</li>
 <li>Buen nivel utilizando React</li>
 <li>Redux, Redux-Thunk,JWT,Bcrypt,morgana,formik,axios,bootstrap,yup</li>
 <li>Entendimientos y manejo de React-Native- expo/native-cli</li>
