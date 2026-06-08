@@ -31,8 +31,3 @@ Gran conocimiento de JavaScript</li>
 _Personal_
 * ::star::blush: Mi LinkedIn [LinkedIn](https://www.linkedin.com/in/quasir)
 * ::star::blush: Mi Facebook [Facebook](https://www.facebook.com/jujavier.romano)
-
-## URL Proyectos
-
-* HenryBanks Puedes hechar un vistazo en: https://expo.io/@quasir/projects/henrybank
-* Landing Page para consorcios Trayan http://carlostrayan.com/
